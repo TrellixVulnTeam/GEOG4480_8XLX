@@ -3,7 +3,8 @@
 Code from my GIS Capstone Project in W19  
 The full project report can be found at: <https://www.uoguelph.ca/geography/4480-w19/4480w19-g5/analysis-forest-fire-vulnerability-using-gis-and-remote-sensing-mackenzie-county-alberta>
 
-Files:
+## Files
+
 **landsat/search.py:** This script search for an orders landsat images  
 **landsat/mask.py:** This file masks out bad pixels from all the scenes in a landsat order  
 
