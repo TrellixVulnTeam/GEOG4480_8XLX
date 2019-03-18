@@ -10,5 +10,5 @@ The full project report can be found at: <https://www.uoguelph.ca/geography/4480
 
 **weather/create_rasters.py:** This script creates rasters from averaged monthly weather data  
 **weather/get_weather.py:** This script scrapes weather data from Ablerta's weather station data viewer  
-**weather/sample_weather_data.csv*:* This file contains a sample of a single station's data that was scraped, as well as the formulas used to average it out to monthly averages  
+**weather/sample_weather_data.csv:** This file contains a sample of a single station's data that was scraped, as well as the formulas used to average it out to monthly averages  
 
