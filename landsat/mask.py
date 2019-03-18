@@ -4,7 +4,7 @@ GEOG*4480 W19
 Isaac Wismer
 wismeri@uoguelph.ca
 
-Created for a project on wildfire vulnerability in McKenzie County in Alberta
+Created for a project on wildfire vulnerability in Mackenzie County in Alberta
 
 This script extracts all the images from a landsat order, and removes all the
 pixels from the images that are not clear according to the QA band.

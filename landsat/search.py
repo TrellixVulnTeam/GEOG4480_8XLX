@@ -10,7 +10,7 @@ wismeri@uoguelph.ca
 GEOG*4480 W19
 March 6 2019
 
-Created for a project on wildfire vulnerability in McKenzie County in Alberta
+Created for a project on wildfire vulnerability in Mackenzie County in Alberta
 """
 
 import json

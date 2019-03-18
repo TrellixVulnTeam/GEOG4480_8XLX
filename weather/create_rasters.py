@@ -4,7 +4,7 @@ GEOG*4480 W19
 Isaac Wismer
 wismeri@uoguelph.ca
 
-Created for a project on wildfire vulnerability in McKenzie County in Alberta
+Created for a project on wildfire vulnerability in Mackenzie County in Alberta
 
 This script creates rasters for monthly weather data from 14 weather stations
 It interpolates the data between the stations
